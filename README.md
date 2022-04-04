@@ -1,1 +1,1 @@
-# hotel_management_system_se
+# hospital_management_system_se
